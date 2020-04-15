@@ -1,15 +1,31 @@
 package test;
 
-    public class test {
-        void method(int[] x) {
-            x[0] = 5;
-            x[1] = 5;
-        }
+import Course.Book;
 
-        public static void main(String[] args) {
-            test o = new test();
-            int[] x = {1, 1};
-            o.method(x);
-            System.out.printf("x=%d, y=%d", x[0], x[1]);
+public class test {
+    public int[] sort(int[] arr){
+        for (int i=0; i<arr.length-1; i++){
+            for (int j=0; j<arr.length-1; j++ ){
+                if(arr[j] > arr[j+1]){
+                    int t = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = t;
+                }
+            }
         }
+        return arr;
+    }
+
+    public static void main(String[] args) {
+        int listBook[] = {4,7,6,2,1};
+        test sx = new test();
+        int arrayM[] = sx.sort(listBook);
+        for (int element: arrayM
+             ) {
+            System.out.print(element+" ");
+        }
+        System.out.println();
+        System.out.print("Long".toLowerCase());
+    }
+
     }
