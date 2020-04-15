@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3607d7c1-a76e-42b0-b6c2-e044cb42048e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week2/TrialgleClass/RunMainTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/TrialgleClass/RunMainTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week2/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrialgleClass/RunMainTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrialgleClass/RunMainTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/Course/RunMainBookClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/Course/RunMainBookClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.RunMainBookClass">
+  <component name="RunManager" selected="Application.MakeAGreatTest">
+    <configuration name="MakeAGreatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animalAndEdible.MakeAGreatTest" />
+      <module name="Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animalAndEdible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunMainBookClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course.RunMainBookClass" />
       <module name="Week2" />
@@ -80,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunPointClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PointClass.RunPointClass" />
-      <module name="Week2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PointClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.test" />
       <module name="Week2" />
@@ -108,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeAGreatTest" />
         <item itemvalue="Application.RunMainBookClass" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.RunMainTriangle" />
         <item itemvalue="Application.RunMainClass (1)" />
-        <item itemvalue="Application.RunPointClass" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +126,7 @@
       <workItem from="1586749194729" duration="18240000" />
       <workItem from="1586829133033" duration="10312000" />
       <workItem from="1586852579514" duration="21283000" />
-      <workItem from="1586913834697" duration="8865000" />
+      <workItem from="1586913834697" duration="11690000" />
     </task>
     <servers />
   </component>
@@ -149,22 +146,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586874970710" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586941010975">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586944165027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586941010975" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586941010974">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586944165027" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586944165026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586941010974" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586941010973">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586944165026" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586944165026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586941010973" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586941010974">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586944165026" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586944165027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586941010974" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586944165027" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586879841741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
