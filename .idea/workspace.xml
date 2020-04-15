@@ -3,6 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="3607d7c1-a76e-42b0-b6c2-e044cb42048e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/Cylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/RunMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/Cycle_MagicCylinder/RunMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Edibale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/MakeAGreatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/animalAndEdible/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/interfaceToCompareShape/CicleComperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/interfaceToCompareShape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/interfaceToCompareShape/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/interfaceToCompareShape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/interfaceToCompareShape/RectangleComperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle_MagicCylinder/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cycle_MagicCylinder/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle_MagicCylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cycle_MagicCylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle_MagicCylinder/RunMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cycle_MagicCylinder/RunMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Edibale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Edibale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/MakeAGreatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/MakeAGreatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animalAndEdible/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_Animal_Edible/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceToCompareShape/CicleComperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare_Surt_Shape/CicleComperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceToCompareShape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare_Surt_Shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceToCompareShape/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare_Surt_Shape/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceToCompareShape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare_Surt_Shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceToCompareShape/RectangleComperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compare_Surt_Shape/RectangleComperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +68,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainRun">
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="MainRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compareble_SurtArray.MainRun" />
+      <module name="Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compareble_SurtArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRun (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceColorAble.MainRun" />
+      <module name="Week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceColorAble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaceResiable.MainRun" />
       <module name="Week2" />
@@ -51,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceToCompareShape.MainTest" />
+      <option name="MAIN_CLASS_NAME" value="comperator_Surt_Shape.MainTest" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceToCompareShape.*" />
+          <option name="PATTERN" value="comperator_Surt_Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,37 +122,11 @@
       </method>
     </configuration>
     <configuration name="MakeAGreatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="animalAndEdible.MakeAGreatTest" />
+      <option name="MAIN_CLASS_NAME" value="interface_Animal_Edible.MakeAGreatTest" />
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="animalAndEdible.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunMainBookClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course.RunMainBookClass" />
-      <module name="Week2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test" />
-      <module name="Week2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="interface_Animal_Edible.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainRun" />
         <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainRun (1)" />
+        <item itemvalue="Application.MainRun (2)" />
+        <item itemvalue="Application.MainRun" />
         <item itemvalue="Application.MakeAGreatTest" />
-        <item itemvalue="Application.RunMainBookClass" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +157,7 @@
       <workItem from="1586749194729" duration="18240000" />
       <workItem from="1586829133033" duration="10312000" />
       <workItem from="1586852579514" duration="21283000" />
-      <workItem from="1586913834697" duration="18394000" />
+      <workItem from="1586913834697" duration="23363000" />
     </task>
     <servers />
   </component>
@@ -145,38 +177,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586874970710" />
-    <state width="1322" height="541" key="GridCell.Tab.0.bottom" timestamp="1586953488704">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1586967568510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="541" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586953488704" />
-    <state width="1322" height="541" key="GridCell.Tab.0.center" timestamp="1586953488703">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586967568510" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1586967568510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="541" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586953488703" />
-    <state width="1322" height="541" key="GridCell.Tab.0.left" timestamp="1586953488702">
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586967568509" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1586967568509">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="541" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586953488702" />
-    <state width="1322" height="541" key="GridCell.Tab.0.right" timestamp="1586953488703">
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586967568509" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1586967568510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="541" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586953488703" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586879841741">
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586967568510" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586967568167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586879841741" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1586879841741">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586967568167" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1586967568167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586879841741" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1586879841741">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586967568167" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1586967568167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586879841741" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1586879841741">
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586967568167" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1586967568167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586879841741" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586967568167" />
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586913941817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -213,6 +245,36 @@
           <url>file://$PROJECT_DIR$/src/Course/RunMainBookClass.java</url>
           <line>4</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/compareble_SurtArray/CompareTo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
