@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3607d7c1-a76e-42b0-b6c2-e044cb42048e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/src/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/src/TennisGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/test/TennisGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-exercise/test/TennisGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/CleanCodeRefactoringMethodExtraction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/CleanCodeRefactoringMethodExtraction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/src/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/CleanCodeRefactoringVariableExtraction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/CleanCodeRefactoringVariableExtraction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/src/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/test/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/test/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week2/compareble_SurtArray/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week2/compareble_SurtArray/CompareTo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week2/compareble_SurtArray/MainRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable_SurtArray/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable_SurtArray/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable_SurtArray/CompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable_SurtArray/CompareTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable_SurtArray/MainRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable_SurtArray/MainRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Week2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-exercise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-renaming" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week2/test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week2/test/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,7 +46,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainRun (1)">
+  <component name="RunManager" selected="JUnit.TennisGameTest">
     <configuration name="MainRun (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="comparable_SurtArray.MainRun" />
       <module name="Week2" />
@@ -121,26 +112,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeAGreatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interface_Animal_Edible.MakeAGreatTest" />
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interface_Animal_Edible.*" />
+          <option name="PATTERN" value="CleanCodeExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="CleanCodeExercise" />
+      <option name="MAIN_CLASS_NAME" value="CleanCodeExercise.TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TennisGameTest" />
         <item itemvalue="Application.MainRun (1)" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.MainRun (2)" />
         <item itemvalue="Application.MainRun" />
-        <item itemvalue="Application.MakeAGreatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +154,7 @@
       <workItem from="1587003102634" duration="8728000" />
       <workItem from="1587025251776" duration="644000" />
       <workItem from="1587025943474" duration="48000" />
-      <workItem from="1587026008554" duration="2736000" />
+      <workItem from="1587026008554" duration="3224000" />
     </task>
     <servers />
   </component>
@@ -189,22 +182,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587030799539" />
-    <state width="1322" height="295" key="GridCell.Tab.0.bottom" timestamp="1587022043789">
+    <state width="1322" height="295" key="GridCell.Tab.0.bottom" timestamp="1587053238342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587022043789" />
-    <state width="1322" height="295" key="GridCell.Tab.0.center" timestamp="1587022043788">
+    <state width="1322" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587053238342" />
+    <state width="1322" height="295" key="GridCell.Tab.0.center" timestamp="1587053238341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="295" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587022043788" />
-    <state width="1322" height="295" key="GridCell.Tab.0.left" timestamp="1587022043788">
+    <state width="1322" height="295" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587053238341" />
+    <state width="1322" height="295" key="GridCell.Tab.0.left" timestamp="1587053238341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="295" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587022043788" />
-    <state width="1322" height="295" key="GridCell.Tab.0.right" timestamp="1587022043788">
+    <state width="1322" height="295" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587053238341" />
+    <state width="1322" height="295" key="GridCell.Tab.0.right" timestamp="1587053238341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="295" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587022043788" />
+    <state width="1322" height="295" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587053238341" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1586968308129">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,6 +218,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587025272713" />
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587053309052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="264" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1587053309052" />
     <state x="65" y="0" key="new project wizard" timestamp="1587030706068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
