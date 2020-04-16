@@ -1,4 +1,4 @@
-package compareble_SurtArray;
+package comparable_SurtArray;
 
 import java.util.Arrays;
 

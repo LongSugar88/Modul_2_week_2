@@ -1,4 +1,4 @@
-package compareble_SurtArray;
+package comparable_SurtArray;
 
 public class CompareTo extends Circle implements Comparable<CompareTo> {
 
